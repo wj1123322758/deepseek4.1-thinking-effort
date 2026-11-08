@@ -1,6 +1,8 @@
-# AI 探索
+# DeepSeek 4.1 思考强度探索
 
 个人 AI 相关的探索与实验记录工作区（DSH 桌面版工作区）。
+
+> 本地目录名：`AI探索`；GitHub 仓库名只允许 ASCII 字符，故为 `deepseek4.1-thinking-effort`。
 
 ## 目录
 
